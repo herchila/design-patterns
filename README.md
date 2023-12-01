@@ -1,4 +1,4 @@
-# Welcome to Design Patterns in Software Engineer
+# Welcome to Design Patterns in Software Engineer 🐍 ✨
 In the realm of software engineering, design patterns are fundamental, offering solutions to common problems encountered in software design. These patterns provide a template for how to solve a problem in a particular context, making software design more efficient and maintainable. This post delves into the world of design patterns through the lens of Python, a language known for its simplicity and readability.
 
 ## What Are Design Patterns?

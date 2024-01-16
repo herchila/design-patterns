@@ -1,6 +1,8 @@
 # Welcome to Design Patterns in Software Engineer 🐍 ✨
 In the realm of software engineering, design patterns are fundamental, offering solutions to common problems encountered in software design. These patterns provide a template for how to solve a problem in a particular context, making software design more efficient and maintainable. This post delves into the world of design patterns through the lens of Python, a language known for its simplicity and readability.
 
+👉 You can read the full post here: [https://astrocodecraft.substack.com/p/understanding-design-patterns-python-perspective](https://astrocodecraft.substack.com/p/understanding-design-patterns-python-perspective)
+
 # About this Repository
 This repository is a curated collection of design pattern examples, each of which demonstrates a specific design pattern in Python. From creational patterns like Singleton and Factory to structural patterns like Adapter and Decorator, and finally to behavioral patterns like Observer and Strategy, this repository serves as a go-to resource for Python developers looking to deepen their understanding of design patterns.
 
